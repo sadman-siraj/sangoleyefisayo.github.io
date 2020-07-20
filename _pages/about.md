@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+https://sangoleyefisayo.github.io/images/qwdqd.png
 
   - I am a Ph.D student in the Department of Electrical and Computer Engineering at University of New Mexico, USA, and a member of the PROTON lab, with Prof. E.E.Tsiropoulou as an advisor.
   - My major field of research is Computer Systems and Networks, with interests in resource allocation and optimization in heterogeneous wireless networks, artificial intelligence, and demand response management in smart grid networks using Game Theory and Reinforcement Learning techniques.
