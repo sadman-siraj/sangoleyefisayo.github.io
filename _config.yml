@@ -84,10 +84,11 @@ author:
   avatar           : "https://sangoleyefisayo.github.io/images/1577655579130.jpg"
   bio              : "Ph.D. Student, Department of Electrical and Computer Engineering, University of New Mexico"
   location         : "University of New Mexico"
+  location         : "Albuquerque, New Mexico, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "fsangoleye@unm.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "fisayo-sangoleye/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
