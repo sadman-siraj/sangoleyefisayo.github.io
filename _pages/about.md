@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student in the Department of Electrical and Computer Engineering at University of New Mexico, USA, since January 2020, as a member of the PROTON lab with Prof. E.E.Tsiropoulou as an advisor. yes
+I am a Ph.D student in the Department of Electrical and Computer Engineering at University of New Mexico, USA, since January 2020, as a member of the PROTON lab with Prof. E.E.Tsiropoulou as an advisor.
