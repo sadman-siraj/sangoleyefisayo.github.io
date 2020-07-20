@@ -83,9 +83,8 @@ author:
   name             : "Fisayo Sangoleye"
   avatar           : "https://sangoleyefisayo.github.io/images/1577655579130.jpg"
   bio              : "Ph.D. Student, Department of Electrical and Computer Engineering, University of New Mexico"
-  location         : "University of New Mexico
-  Albuquerque, New Mexico, USA"
-  location         : "Albuquerque, New Mexico, USA"
+  location         : "University of New Mexico"
+  location         : #"Albuquerque, New Mexico, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
