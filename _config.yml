@@ -83,7 +83,7 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "https://www.google.com/maps/place/The+University+of+New+Mexico/@35.0843187,-106.6219699,17z/data=!3m1!4b1!4m5!3m4!1s0x87220b5a2481f1bd:0x7777c7361d5ed347!8m2!3d35.0843187!4d-106.6197812"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sangoleyefisayo"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "o_fisayo"
   vine             :
   weibo            :
   xing             :
