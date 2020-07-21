@@ -23,13 +23,13 @@ Work Experience
   * Duties: 
     - Conducting research on Demand Response Management in Smart Grid Systems using Contract Theory
   * Supervisor: Professor E.E. Tsiropoulou
-
+-----
 * Jan. 2020 – May 2020: Teaching Assistant
   * University of New Mexico
   * Duties: 
     - Assisted with tutoring and grading students in Advanced Engineering Mathematics [ECE300]
   * Supervisor: Professor J. Palacios
-  
+------  
 * Oct. 2017 – Nov 2019: Digital Strategist (Team Lead)
   * Terawork LLC
   * Duties:
