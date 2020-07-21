@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-https://sangoleyefisayo.github.io/images/qwdqd.png
 <img src="https://sangoleyefisayo.github.io/images/qwdqd.png" alt="Photo" style="width: 250px;">
 
   - I am a Ph.D student in the Department of Electrical and Computer Engineering at University of New Mexico, USA, and a member of the PROTON lab, with Prof. E.E.Tsiropoulou as an advisor.
