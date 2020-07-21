@@ -2,7 +2,7 @@
 title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /graduate-teaching-assistantship
 venue: "University of New Mexico, Electrical and Computer Engineering Department"
 date: Jan 2020 – May 2020
 location: "Albuquerque, NM, USA"
