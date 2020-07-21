@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Engineering, University of New Mexico, Albuquerque NM, 2023 (expected)
-* M.S. in Computer Engineering, University of New Mexico, Albuquerque NM, 2021 (expected)
-* B.S. in Electrical and Electronics Engineering, University of Lagos, Nigeria., 2016
+* Ph.D in Computer Engineering, University of New Mexico, Albuquerque NM. - 2023 (expected)
+* M.S. in Computer Engineering, University of New Mexico, Albuquerque NM. - 2021 (expected)
+* B.S. in Electrical and Electronics Engineering, University of Lagos, Nigeria. - 2016
 
 
 Work Experience
