@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /graduate-teaching-assistantship
 venue: "University of New Mexico, Electrical and Computer Engineering Department"
-date: Jan 2020 – May 2020
+date: 01/20/2020
 location: "Albuquerque, NM, USA"
 ---
 
