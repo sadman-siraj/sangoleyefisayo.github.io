@@ -72,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently volunteering in mentoring and supervising kids (NSBE Jr.) for projects and careers in STEM
+* Currently volunteering in mentoring and supervising kids (NSBE Jr.) for projects and careers in STEM.
