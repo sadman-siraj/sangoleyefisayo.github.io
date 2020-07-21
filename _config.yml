@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fisayo Sangoleye"
 title_separator          : "-"
 name                     : &name "Fisayo Sangoleye"
-description              : &description "PhD Student in Computer Engineering at the University of New Mexico, NM, USA"
+description              : &description "PhD Student in Computer Engineering at the University of New Mexico, NM, USA."
 url                      : https://sangoleyefisayo.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sangoleyefisayo/sangoleyefisayo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fisayo Sangoleye"
   avatar           : "https://sangoleyefisayo.github.io/images/1577655579130.jpg"
-  bio              : "Ph.D. Student, Department of Electrical and Computer Engineering, University of New Mexico"
+  bio              : "Ph.D. Student in Computer Engineering at the University of New Mexico, NM, USA."
   location         : "Albuquerque, New Mexico, USA"
   employer         : "University of New Mexico"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
