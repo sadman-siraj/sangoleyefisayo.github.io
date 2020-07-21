@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of New Mexico, Electrical and Computer Engineering Department"
+date: Jan 2020 – May 2020
+location: "Albuquerque, NM, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Advanced Engineering Mathematics [ECE300]
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisted in tutoring and grading students in Advanced Engineering Mathematics [ECE300]
+- First and Second-Order ODEs are solved using Laplace Transforms, Matrices, Eigenvalues and other techniques involving Linear Algebra.
+- Applications are emphasized using MATLAB.
