@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fisayo Sangoleye"
 title_separator          : "-"
 name                     : &name "Fisayo Sangoleye"
-description              : &description "Ph.D. Student, Department of Electrical and Computer Engineering, University of New Mexico"
+description              : &description "PhD Student in Computer Engineering at the University of New Mexico, NM, USA"
 url                      : https://sangoleyefisayo.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sangoleyefisayo/sangoleyefisayo.github.io"
