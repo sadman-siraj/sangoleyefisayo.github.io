@@ -7,7 +7,7 @@ permalink: /publications/
 <H1>Journal Publications</H1>
 1. Irtija, N; Sangoleye, F; Tsiropoulou, E.E. "Contract-theoretic Demand Response Management in Smart Grid Systems" in IEEE Access 2020.
 
-Conference Publications
+<H2>Conference Publications</H2>
 1. Sangoleye, F; Irtija, N; Tsiropoulou, E.E. "Data Acquisition in Social Internet of Things basedon Contract Theory" in IEEE ICC, 2021. (under review).
 
 
