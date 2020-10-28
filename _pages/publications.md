@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 #author_profile: true
 ---
-Journal Publications
+<H1>Journal Publications</H1>
 1. Irtija, N; Sangoleye, F; Tsiropoulou, E.E. "Contract-theoretic Demand Response Management in Smart Grid Systems" in IEEE Access 2020.
 
 Conference Publications
