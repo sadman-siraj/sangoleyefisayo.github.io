@@ -13,11 +13,13 @@ Advanced Engineering Mathematics [ECE 300]
 Assisted in tutoring and grading students in Advanced Engineering Mathematics [ECE300]
 - First and Second-Order ODEs are solved using Laplace Transforms, Matrices, Eigenvalues and other techniques involving Linear Algebra.
 - Applications are emphasized using MATLAB.
+---
 
 Programming Fundamentals (Lang: C) [ECE 131L]
 ======
 Assisted in tutoring and grading students in ECE 131L - Programming Fundamentals (Lang: C)
 - Abstract machine models with emphasis on the memory hierarchy, Basic programming constructs, Functions, Parameter passing, Pointers, Arrays, File I/O, Bit-level operations and interfacing to an external device.
+---
 
 Introduction to Communication Systems [ECE 314]
 ======
