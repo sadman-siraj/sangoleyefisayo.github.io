@@ -18,17 +18,20 @@ Education
 
 Work Experience
 ======
-* May. 2020 – Present: Research Assistant
-  * University of New Mexico
-  * Duties: 
-    - Conducting research on Demand Response Management in Smart Grid Systems using Contract Theory
-  * Supervisor: Professor E.E. Tsiropoulou
+* May. 2020 – Present: Research Assistant (University of New Mexico)
+  * Research Interests: 
+    - Conducting research on Demand Response Management, Resilience and Cybersecurity in Smart Grid Systems using Reinforcement Learning, Game Theory and Optimization.
 
-* Jan. 2020 – May 2020: Teaching Assistant
-  * University of New Mexico
+* Jan. 2020 – May 2021: Teaching Assistant (University of New Mexico)
   * Duties: 
-    - Assisted with tutoring and grading students in Advanced Engineering Mathematics [ECE300]
-  * Supervisor: Professor J. Palacios
+    - Assisted with teaching students in ECE300 - Advanced Engineering Mathematics
+      - First and Second-Order ODEs are solved using Laplace Transforms, Matrices, Eigenvalues and other techniques involving Linear Algebra.
+      - Applications are emphasized using MATLAB.
+    - Assisted in tutoring and grading students in ECE 131L - Programming Fundamentals (Lang: C)
+      - Abstract machine models with emphasis on the memory hierarchy, Basic programming constructs, Functions, Parameter passing, Pointers, Arrays, File I/O, Bit-level operations and interfacing to an external device.
+    - Assisted with course preparation, office hours tutoring and grading of students in ECE 314 - Introduction to Communication Systems.
+      - Amplitude/frequency modulation, pulse position/amplitude modulation, probabilistic noise model, AWGN, Rice representation, figure of merit, phase-locked loops, digital modulation, and introduction to multiple access systems.
+
   
 * Oct. 2017 – Nov 2019: Digital Strategist (Team Lead)
   * Terawork LLC
@@ -58,13 +61,10 @@ Work Experience
     -	Base station troubleshooting and maintenance.
 
  
-Skills
+Technical Proficency
 ======
-*	PHP, C++, C and Python.
-*	HTML, CSS and WordPress.
-*	Multisim and Proteus.
-*	Microsoft Office Applications.
-*	Arduino (Microcontroller).
+*	Python, C, C++, MATLAB, Reinforcement Learning, Optimization.
+*	LTE, WiMAX, IP Telephony, Routing and Switching, NetSim, Proteus, Multisim, Arduino, FPGAs, VHDL, Vivado Suite, Linux.
 
   
 Teaching
