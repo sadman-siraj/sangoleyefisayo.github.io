@@ -11,7 +11,7 @@ permalink: /publications/
 4. F. Sangoleye, N. Irtija, E. E. Tsiropoulou, and S. Papavassiliou, "Prospect-theoretic Demand Response Management in Smart Grid Systems" in IEEE Systems Journal, 2021. (Under Review).
 
 <H2>Conference Publications</H2>
-1. Sangoleye, F; Irtija, N; Tsiropoulou, E.E. “Data Acquisition in Social Internet of Things based-on Contract Theory” in IEEE ICC, 2021. (to appear). 
+1. Sangoleye, Fisayo, Nafis Irtija, and Eirini Eleni Tsiropoulou. "Data Acquisition in Social Internet of Things based on Contract Theory." ICC 2021-IEEE International Conference on Communications. IEEE, 2021. 
 
 
 
