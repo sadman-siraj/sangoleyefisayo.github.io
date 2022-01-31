@@ -57,3 +57,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include teaching.md %}
   {% endfor %}</ul>
+  
+ Volunteering and Leadership
+======
+* Actively volunteering in IEEE UNM Student Branch and IEEE WIE UNM Affinity Group.
+* Former Chairperson at IEEE Student Branch University of Dhaka, Bangladesh.
