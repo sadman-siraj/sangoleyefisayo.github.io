@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fisayo Sangoleye"
+title                    : "Md Sadman Siraj"
 title_separator          : "-"
-name                     : &name "Fisayo Sangoleye"
-description              : &description "PhD Student in Computer Engineering at the University of New Mexico, NM, USA."
-url                      : https://sangoleyefisayo.github.io/
+name                     : &name "Md Sadman Siraj"
+description              : &description "Ph.D. Student, Electrical & Computer Engineering Department, University of New Mexico, NM, USA."
+url                      : https://sadman-siraj.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sangoleyefisayo/sangoleyefisayo.github.io"
+repository               : "sadman-siraj/sadman-siraj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fisayo Sangoleye"
+  name             : "Md Sadman Siraj"
   avatar           : "https://sangoleyefisayo.github.io/images/1577655579130.jpg"
   bio              : "Ph.D. Student in Computer Engineering at the University of New Mexico, NM, USA."
   location         : "Albuquerque, New Mexico, USA"
   employer         : "University of New Mexico"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "fsangoleye@unm.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=S5HhON8AAAAJ&hl=en"
+  email            : "mdsadmansiraj96@unm.edu"
+  researchgate     : "https://www.researchgate.net/profile/Md-Sadman-Siraj"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sangoleyefisayo"
+  github           : "sadman-siraj"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "fisayo-sangoleye/"
+  linkedin         : "sadman-siraj/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "o_fisay0"
+  twitter          : #"o_fisay0"
   vine             :
   weibo            :
   xing             :
