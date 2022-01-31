@@ -47,16 +47,12 @@ Work experience
   * Developing full-stack Android Application: 
     - Streaming online courses, online quiz, online exams
   
-Skills
+Technical Proficiency
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	Python, C, C++, MATLAB, Deep Learning, Reinforcement Learning.
+*	NS2, Proteus, Xcode, Arduino, Raspberry Pi.
 
-Publications
+Teaching
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
