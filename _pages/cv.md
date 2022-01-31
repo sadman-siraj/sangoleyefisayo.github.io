@@ -51,25 +51,14 @@ Technical Proficiency
 ======
 *	Python, C, C++, MATLAB, Deep Learning, Reinforcement Learning.
 *	NS2, Proteus, Xcode, Arduino, Raspberry Pi.
-
-Teaching
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include teaching.md %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteering and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Actively volunteering in IEEE UNM Student Branch and IEEE WIE UNM Affinity Group.
+* Former Chairperson at IEEE Student Branch University of Dhaka, Bangladesh.
