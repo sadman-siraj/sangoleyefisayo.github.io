@@ -46,7 +46,7 @@ Work Experience
 
 * August. 2016 – December 2017: Android Application Developer (10 Minutes School, Bangladesh)
   * Developing full-stack Android Application: 
-    - Streaming online courses, online quiz, online exams
+    - Streaming online courses, online quiz, online exams.
 
  
 Technical Proficency
