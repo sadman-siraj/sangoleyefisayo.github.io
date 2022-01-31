@@ -2,26 +2,23 @@
 title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /graduate-teaching-assistantship
+permalink: /teaching/
 venue: "University of New Mexico, Electrical and Computer Engineering Department"
-date: 2020-01-20
+date: 01-10-2022
 location: "Albuquerque, NM, USA"
 ---
 
-Advanced Engineering Mathematics [ECE 300]
+Signals & Systems [ECE 314L]
 ======
-Assisted in tutoring and grading students in Advanced Engineering Mathematics [ECE300]
-- First and Second-Order ODEs are solved using Laplace Transforms, Matrices, Eigenvalues and other techniques involving Linear Algebra.
-- Applications are emphasized using MATLAB.
----
+Assisting in grading students in Signals & Systems [ECE 314L]
+- Fourier Representations, Linear Time-Invariant (LTI) Systems and Z-Transformations.
 
-Programming Fundamentals (Lang: C) [ECE 131L]
+Electromagnetic Fields & Waves [ECE 360]
 ======
-Assisted in tutoring and grading students in ECE 131L - Programming Fundamentals (Lang: C)
-- Abstract machine models with emphasis on the memory hierarchy, Basic programming constructs, Functions, Parameter passing, Pointers, Arrays, File I/O, Bit-level operations and interfacing to an external device.
----
+Assisting in grading students in Electromagnetic Fields & Waves [ECE 360]
+- Vector Analysis & Calculus, Electrostatics, Magnetostatics, Electromagnetic Wave Propagation, Transmission Lines, Waveguides, Antennas.
 
-Introduction to Communication Systems [ECE 314]
+Introduction to Power Systems [ECE 381]
 ======
-Assisted with course preparation, office hours tutoring and grading of students in ECE 314 - Introduction to Communication Systems.
-- Amplitude/frequency modulation, pulse position/amplitude modulation, probabilistic noise model, AWGN, Rice representation, figure of merit, phase-locked loops, digital modulation, and introduction to multiple access systems.
+Assisting in grading students in Introduction to Power Systems [ECE 381]
+- Fundamentals of Power Systems, Power Transformers, Transmission Line Parameters, Power Flows, Symmetrical & Unsymmetrical Faults.
