@@ -11,69 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Engineering, University of New Mexico, Albuquerque NM. - 2023 (expected)
-* M.S. in Computer Engineering, University of New Mexico, Albuquerque NM. - 2021 (expected)
-* B.S. in Electrical and Electronics Engineering, University of Lagos, Nigeria. - 2016
+* Ph.D. in Computer Engineering, Electrical and Computer Engineering Department, University of New Mexico, Albuquerque NM, USA. - 2025 (expected)
+* B.Sc. in Electrical and Electronic Engineering, Department of Electrical and Electronic Engineering, University of Dhaka, Bangladesh. - 2020
 
 
 Work Experience
 ======
-* May. 2020 – Present: Research Assistant (University of New Mexico)
-  * Research Interests: 
-    - Conducting research on Demand Response Management, Resilience and Cybersecurity in Smart Grid Systems using Reinforcement Learning, Game Theory and Optimization.
+* January. 2022 – Present: Graduate Teaching Assistant (University of New Mexico)
+  * Undergraduate Courses: 
+    - Signals & Systems, Electromagnetic Fields & Waves and Introduction Power Systems.
 
-* Jan. 2020 – May 2021: Teaching Assistant (University of New Mexico)
-  * Duties: 
-    - Assisted with teaching students in ECE300 - Advanced Engineering Mathematics
-      - First and Second-Order ODEs are solved using Laplace Transforms, Matrices, Eigenvalues and other techniques involving Linear Algebra.
-      - Applications are emphasized using MATLAB.
-    - Assisted in tutoring and grading students in ECE 131L - Programming Fundamentals (Lang: C)
-      - Abstract machine models with emphasis on the memory hierarchy, Basic programming constructs, Functions, Parameter passing, Pointers, Arrays, File I/O, Bit-level operations and interfacing to an external device.
-    - Assisted with course preparation, office hours tutoring and grading of students in ECE 314 - Introduction to Communication Systems.
-      - Amplitude/frequency modulation, pulse position/amplitude modulation, probabilistic noise model, AWGN, Rice representation, figure of merit, phase-locked loops, digital modulation, and introduction to multiple access systems.
+* June. 2020 – December 2021: Online Course Instrcutor (Upskill, Bangladesh)
+  * Python Programming in four Modules: 
+    - Python Programming Fundamentals
+      - Variables, Expressions, Conditionals, Loops, Functions.
+    - Data Structures
+      - Strings, Files, Lists, Dictionaries, Tuples.
+    - Web Data in Python
+      - Regular Expressions, Sockets, URLlibs, HTTP, XML, JSON.
+    - Database in Python
+      - Tables, DBMS, Relations, SQL, SQLite, RDBMS.
 
-  
-* Oct. 2017 – Nov 2019: Digital Strategist (Team Lead)
-  * Terawork LLC
-  * Duties:
-    -	Led the development and execution of digital marketing strategies and new business executions that drove rapid growth.
-    -	Improved the usability, design, content and web traffic of the company website.
-    -	Optimized web application for Search Engines.
-  
+* October. 2019 - November 2019: Advanced Workshop Trainee (APSCO, China)
+  * Asia-Pacific Space Cooperation Organization (APSCO) at Xi'an, China
+    - APSCO Microsatellite Contest, Northwestern Polytechnical University (NPU)
 
-* Aug. 2017 – Oct. 2017: Computer Lab Instructor/Network Engineer
-  * Government Secondary School, Tsaragi, Kwara state, Nigeria.
-  * Duties:
-    -	Maintained the VSAT for 24th Gen. Network Company and assisted with troubleshooting.
-    -	Set up LAN connection for 50 desktop computers in the computer room.
+* July. 2018 - August 2018: Advanced Workshop Trainee (APSCO, Turkey)
+  * Second Summer Camp of the Asia-Pacific Space Cooperation Organization (APSCO) at Ankara, Turkey
+    - Student Small Satellite (SSS) Project, Middle East Technical University (METU)
 
-* June 2017 – Aug. 2017: Physics Teacher
-  * Kings Grammar School, Tsaragi, Kwara state
-  * Duties:
-    - Duties included: Teaching high school students Physics.
- 
+* August. 2017 - September 2017: Advanced Workshop Trainee (APSCO, China)
+  * First Summer Camp of the Asia-Pacific Space Cooperation Organization (APSCO) at Beijing, China
+    - Student Small Satellite (SSS) Project, Beihang University of Aeronautics and Astronautics (BUAA)
 
-* Aug. 2015 – Jan. 2016: Network Engineer (Intern)
-  * Cyberspace Network Limited
-  * Duties:
-    -	Installation, Configuration and troubleshooting of network devices (LTE, WiMAX, VSAT).
-    -	Monitoring network infrastructures, troubleshooting and assisting site engineers with network issues resolution at the Network Operations Centre (NOC).
-    -	Base station troubleshooting and maintenance.
+* August. 2016 – December 2017: Android Application Developer (10 Minutes School, Bangladesh)
+  * Developing full-stack Android Application: 
+    - Streaming online courses, online quiz, online exams
 
  
 Technical Proficency
 ======
-*	Python, C, C++, MATLAB, Reinforcement Learning, Optimization.
-*	LTE, WiMAX, IP Telephony, Routing and Switching, NetSim, Proteus, Multisim, Arduino, FPGAs, VHDL, Vivado Suite, Linux.
+*	Python, C, C++, MATLAB, Deep Learning, Reinforcement Learning.
+*	NS2, Proteus, Xcode, Arduino, Raspberry Pi.
 
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include teaching.md %}
   {% endfor %}</ul>
   
   
-Service and leadership
+Volunteering and Leadership
 ======
-* Currently volunteering in mentoring and supervising kids (NSBE Jr.) for projects and careers in STEM.
+* Actively volunteering in IEEE UNM Student Branch and IEEE WIE UNM Affinity Group.
+* Former Chairperson at IEEE Student Branch University of Dhaka, Bangladesh.
