@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Engineering, Electrical and Computer Engineering Department, University of New Mexico, Albuquerque NM, USA. - 2025 (expected)
+* Ph.D. in Computer Engineering, Department of Electrical and Computer Engineering, University of New Mexico, Albuquerque NM, USA. - 2025 (expected)
 * B.Sc. in Electrical and Electronic Engineering, Department of Electrical and Electronic Engineering, University of Dhaka, Bangladesh. - 2020
 
 Work experience
