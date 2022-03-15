@@ -3,7 +3,7 @@ title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/
-venue: "University of New Mexico, Electrical and Computer Engineering Department"
+venue: "Dpeartment of Electrical and Computer Engineering, University of New Mexico"
 date: 01-10-2022
 location: "Albuquerque, NM, USA"
 ---
