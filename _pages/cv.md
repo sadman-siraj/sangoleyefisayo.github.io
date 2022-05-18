@@ -16,9 +16,13 @@ Education
 
 Work experience
 ======
-* January. 2022 – Present: Graduate Teaching Assistant (University of New Mexico)
+* May. 2022 – Present, 2022: Graduate Research Assistant (University of New Mexico)
+  * Department of Electrical and Computer Engineering: 
+    - Performance and Resource Optimization in Networks (PROTON) Lab
+
+* January. 2022 – May, 2022: Graduate Teaching Assistant (University of New Mexico)
   * Undergraduate Courses: 
-    - Signals & Systems, Electromagnetic Fields & Waves and Introduction Power Systems.
+    - Signals & Systems, Electromagnetic Fields & Waves and Introduction Power Systems
 
 * June. 2020 – December 2021: Online Course Instrcutor (Upskill, Bangladesh)
   * Python Programming in four Modules: 
