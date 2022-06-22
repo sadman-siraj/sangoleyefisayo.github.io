@@ -54,7 +54,7 @@ Work experience
 Technical Proficiency
 ======
 *	Python, C, C++, MATLAB, Deep Learning, Reinforcement Learning.
-*	NS2, Proteus, Xcode, Arduino, Raspberry Pi.
+*	NS2, Proteus, MPLAB-XIDE, Arduino, Raspberry Pi.
   
  Volunteering and Leadership
 ======
