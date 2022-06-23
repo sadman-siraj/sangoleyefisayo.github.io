@@ -22,7 +22,7 @@ permalink: /publications/
 <H2>Book Chapters</H2>
 
 <ol>
-<li><p align="justify"><b>Siraj, M. S.</b>, Shahid, O., & Ahad, M. A. R. (2021). Cooking Activity Recognition with Varying Sampling Rates Using Deep Convolutional GRU Framework. In Human Activity Recognition Challenge (pp. 115-126). [doi: 10.1007/978-981-15-8269-1_10]</p></li></p></li>
+<li><p align="justify"><b>Siraj, M. S.</b>, Shahid, O., & Ahad, M. A. R. (2021). Cooking Activity Recognition with Varying Sampling Rates Using Deep Convolutional GRU Framework. In Human Activity Recognition Challenge (pp. 115-126). [doi: 10.1007/978-981-15-8269-1_10]</p></li>
 </ol>
 
 {% if author.googlescholar %}
