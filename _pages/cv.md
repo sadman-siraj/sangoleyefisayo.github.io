@@ -57,6 +57,14 @@ Technical Proficiency
 *	Python, C, C++, MATLAB, Deep Learning, Reinforcement Learning.
 *	NS2, Proteus, MPLAB-XIDE, Arduino, Raspberry Pi.
   
+Honors & Awards
+======
+*	IEEE GLOBECOM 2022 GCSN Technical Program Committee (TPC) Member, Rio de Janeiro, Brazil, 2022.
+*	IEEE ISCC 2022 Technical Program Committee (TPC) Member, Rhodes Island, Greece, 2022.
+*	Champion, Space Expedition Contest, IEEE BRACU AES Chapter, BRACU, Dhaka, Bangladesh, 2021.
+*	Champion, Satellite Mission Idea Contest, 4th International BIRDS Workshop 2019, Dhaka, Bangladesh, 2020.
+*	Science for Mankind Research Award, DUSS, University of Dhaka, Dhaka, Bangladesh, 2019.
+
  Volunteering and Leadership
 ======
 * Actively volunteering in IEEE UNM Student Branch and IEEE WIE UNM Affinity Group.
