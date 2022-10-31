@@ -5,9 +5,18 @@ permalink: /publications/
 #author_profile: true
 ---
 
+<H2>Journal Publications</H2>
+
+<ol>
+  <li><p align="justify"><b>Siraj, M. S.</b>, Rahman, A. B., Diamanti, M., Tsiropoulou, E. E., & Papavassiliou, S., "Alternative Positioning, Navigation, and Timing enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces", IEEE Systems Journal. (Under Review)</p></li>
+</ol>
+
 <H2>Conference Publications</H2>
 
 <ol>
+  <li><p align="justify"><b>Siraj, M. S.</b>, Rahman, A. B., Tsiropoulou, E. E., & Papavassiliou, "Symbiotic Positioning, Navigation, and Timing", IEEE ICC, 2023. (Under Review)</p></li>
+  <li><p align="justify"><b>Rahman, A. B.</b>, Siraj, M. S., Tsiropoulou, E. E., & Papavassiliou, "Mutualistic Compute Continuum: A Network Economics Analysis", IEEE ICC, 2023. (Under Review)</p></li>
+  <li><p align="justify">Adesokan, A., <b>Siraj, M. S.</b>, Rahman, A. B., Tsiropoulou, E. E., & Pavassiliou, S., "How to become an Influencer in Social Networks", IEEE ICC, 2023. (Under Review)</p></li>
   <li><p align="justify"><b>Siraj, M. S.</b>, Rahman, A. B., Diamanti, M., Tsiropoulou, E. E., Papavassiliou, S., & Plusquelic, J., "Positioning, Navigation, and Timing enabled by Reconfigurable Intelligent Surfaces, Phase Shift Optimization, and Reinforcement Learning", IEEE MILCOM, 2022. (Accepted)</p></li>
   <li><p align="justify"><b>Siraj, M. S.</b>, Hossain, M. S., Brown, R., Tsiropoulou, E. E., & Papavassiliou, S., "Incetives to Learn: A Location-based Federated Learning Model", IEEE GIIS, 2022. (Accepted)</p></li>
   <li><p align="justify">Rahman, A. B., <b>Siraj, M. S.</b>, Kubiak, N., Tsiropoulou, E. E., & Papavassiliou, S., "Network Economics-based Crowdsourcing in Online Social Networks", IEEE GLOBECOM, 2022. (Accepted)</p></li> 
