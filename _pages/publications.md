@@ -9,15 +9,19 @@ permalink: /publications/
 
 <ol>
    <li><p align="justify"><b>M. S. Siraj</b>, E. E. Tsiropoulou, S. Papavassiliou and J. Plusquellic, "Symbiotic Positioning, Navigation, and Timing based on Game Theory and Reinforcement Learning", IEEE Journal on Selected Areas in Communications. (Under Review)</p></li>
-  <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou and S. Pavassiliou, "Alternative Positioning, Navigation, and Timing enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces", IEEE Systems Journal. (Under Review)</p></li>
+  <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou and S. Pavassiliou, "Alternative Positioning, Navigation, and Timing enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces", IEEE Systems Journal. (Accepted)</p></li>
 </ol>
 
 <H2>Conference Publications</H2>
 
 <ol>
-  <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, E. E. Tsiropoulou and S. Pavassiliou, "Symbiotic Positioning, Navigation, and Timing", IEEE ICC, 2023. (Under Review)</p></li>
-  <li><p align="justify">A. B. Rahman, <b>M. S. Siraj</b>, E. E. Tsiropoulou and S. Pavassiliou, "Mutualistic Compute Continuum: A Network Economics Analysis", IEEE ICC, 2023. (Under Review)</p></li>
-  <li><p align="justify">A. Adesokan, <b>M. S. Siraj</b>, A. B. Rahman, E. E. Tsiropoulou and S. Pavassiliou, "How to become an Influencer in Social Networks", IEEE ICC, 2023. (Under Review)</p></li>
+   <li><p align="justify">N. Kemp, <b>M. S. Siraj</b>, E. E. Tsiropoulou and S. Papavassiliou, "Community-based Load Balancing and Prosumers Incentivization in Smart Grid Systems", Globecom2023 SAC SGC. (Under Review)</p></li>
+   <li><p align="justify">A. Adesokan, <b>M. S. Siraj</b>, A. S. Penafiel, E. E. Tsiropoulou and S. Papavassiliou, "GAIA: A Dynamic Crowdmapping Framework based on Hedonic Coalition Formation Games", Globecom2023 SAC SN. (Under Review)</p></li>
+   <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou and S. Papavassiliou, "Positioning, Navigation, and Timing on the Air", Wi-DroIT 2023 (5th International Workshop on Wireless Sensors and Drones in Internet of Things). (Under Review)</p></li>
+   <li><p align="justify">A. B. Rahman, P. Charatsaris, <b>M. S. Siraj</b> and E. E. Tsiropoulou, "Symbiotic Content Caching in Next-Generation Information-Centric Networking", REFRESH 2023 (4th International Workshop on Real-life modeling in 5G/6G networks and beyond). (Under Review)</p></li>
+  <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, E. E. Tsiropoulou, S. Papavassiliou and J. Plusquellic, "Symbiotic Positioning, Navigation, and Timing", 5th International Workshop on IoT Applications and Industry 5.0. (Under Review)</p></li>
+  <li><p align="justify">A. B. Rahman, <b>M. S. Siraj</b>, E. E. Tsiropoulou and S. Pavassiliou, "Mutualistic Compute Continuum: A Network Economics Analysis", WS16 ICC'2023 Workshop - SIGNIS. (Accepted)</p></li>
+  <li><p align="justify">A. Adesokan, <b>M. S. Siraj</b>, A. B. Rahman, E. E. Tsiropoulou and S. Pavassiliou, "How to become an Influencer in Social Networks", IEEE ICC'23 - SAC-07 SN Track. (Accepted)</p></li>
   <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou and J. Plusquellic, "Orchestration of Reconfigurable Intelligent Surfaces for Positioning, Navigation, and Timing," MILCOM 2022 - 2022 IEEE Military Communications Conference (MILCOM), Rockville, MD, USA, 2022, pp. 148-153, doi: 10.1109/MILCOM55135.2022.10017665.</p></li>
   <li><p align="justify"><b>M. S. Siraj</b>, M. S. Hossain, R. Brown, E. E. Tsiropoulou and S. Papavassiliou, "Incentives to Learn: A Location-based Federated Learning Model," 2022 Global Information Infrastructure and Networking Symposium (GIIS), Argostoli, Greece, 2022, pp. 40-45, doi: 10.1109/GIIS56506.2022.9937034.</p></li>
   <li><p align="justify">A. B. Rahman, <b>M. S. Siraj</b>, N. Kubiak, E. E. Tsiropoulou and S. Papavassiliou, "Network Economics-based Crowdsourcing in Online Social Networks," GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022, pp. 4655-4660, doi: 10.1109/GLOBECOM48099.2022.10001611.</p></li> 
