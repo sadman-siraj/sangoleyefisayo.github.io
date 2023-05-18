@@ -8,18 +8,19 @@ permalink: /publications/
 <H2>Journal Publications</H2>
 
 <ol>
-   <li><p align="justify"><b>M. S. Siraj</b>, E. E. Tsiropoulou, S. Papavassiliou and J. Plusquellic, "Symbiotic Positioning, Navigation, and Timing based on Game Theory and Reinforcement Learning", IEEE Journal on Selected Areas in Communications. (Under Review)</p></li>
+   <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou and S. Papavassiliou, "Alternative Positioning, Navigation, and Timing Enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces," in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.</p></li>
   <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou and S. Pavassiliou, "Alternative Positioning, Navigation, and Timing enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces", IEEE Systems Journal. (Accepted)</p></li>
 </ol>
 
 <H2>Conference Publications</H2>
 
 <ol>
+   <li><p align="justify"><b>M. S. Siraj</b>, E. E. Tsiropoulou, S. Papavassiliou and J. Plusquellic, "SAFE: Secure Symbiotic Positioning, Navigation, and Timing", Globecom2023 CQRM. (Under Review)</p></li>
    <li><p align="justify">N. Kemp, <b>M. S. Siraj</b>, E. E. Tsiropoulou and S. Papavassiliou, "Community-based Load Balancing and Prosumers Incentivization in Smart Grid Systems", Globecom2023 SAC SGC. (Under Review)</p></li>
    <li><p align="justify">A. Adesokan, <b>M. S. Siraj</b>, A. S. Penafiel, E. E. Tsiropoulou and S. Papavassiliou, "GAIA: A Dynamic Crowdmapping Framework based on Hedonic Coalition Formation Games", Globecom2023 SAC SN. (Under Review)</p></li>
-   <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou and S. Papavassiliou, "Positioning, Navigation, and Timing on the Air", Wi-DroIT 2023 (5th International Workshop on Wireless Sensors and Drones in Internet of Things). (Under Review)</p></li>
-   <li><p align="justify">A. B. Rahman, P. Charatsaris, <b>M. S. Siraj</b> and E. E. Tsiropoulou, "Symbiotic Content Caching in Next-Generation Information-Centric Networking", REFRESH 2023 (4th International Workshop on Real-life modeling in 5G/6G networks and beyond). (Under Review)</p></li>
-  <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, E. E. Tsiropoulou, S. Papavassiliou and J. Plusquellic, "Symbiotic Positioning, Navigation, and Timing", 5th International Workshop on IoT Applications and Industry 5.0. (Under Review)</p></li>
+   <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, P. Charatsaris, E. E. Tsiropoulou and S. Papavassiliou, "Positioning, Navigation, and Timing on the Air", Wi-DroIT 2023 (5th International Workshop on Wireless Sensors and Drones in Internet of Things). (Accepted)</p></li>
+   <li><p align="justify">A. B. Rahman, P. Charatsaris, <b>M. S. Siraj</b> and E. E. Tsiropoulou, "Symbiotic Content Caching in Next-Generation Information-Centric Networking", REFRESH 2023 (4th International Workshop on Real-life modeling in 5G/6G networks and beyond). (Accepted)</p></li>
+  <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, E. E. Tsiropoulou, S. Papavassiliou and J. Plusquellic, "Symbiotic Positioning, Navigation, and Timing", 5th International Workshop on IoT Applications and Industry 5.0. (Accepted)</p></li>
   <li><p align="justify">A. B. Rahman, <b>M. S. Siraj</b>, E. E. Tsiropoulou and S. Pavassiliou, "Mutualistic Compute Continuum: A Network Economics Analysis", WS16 ICC'2023 Workshop - SIGNIS. (Accepted)</p></li>
   <li><p align="justify">A. Adesokan, <b>M. S. Siraj</b>, A. B. Rahman, E. E. Tsiropoulou and S. Pavassiliou, "How to become an Influencer in Social Networks", IEEE ICC'23 - SAC-07 SN Track. (Accepted)</p></li>
   <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou, S. Papavassiliou and J. Plusquellic, "Orchestration of Reconfigurable Intelligent Surfaces for Positioning, Navigation, and Timing," MILCOM 2022 - 2022 IEEE Military Communications Conference (MILCOM), Rockville, MD, USA, 2022, pp. 148-153, doi: 10.1109/MILCOM55135.2022.10017665.</p></li>
