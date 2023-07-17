@@ -9,7 +9,7 @@ permalink: /publications/
 
 <ol>
    <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou and S. Papavassiliou, "Alternative Positioning, Navigation, and Timing Enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces," in IEEE Systems Journal, doi: 10.1109/JSYST.2023.3268989.</p></li>
-  <li><p align="justify"><b>M. S. Siraj</b>, A. B. Rahman, M. Diamanti, E. E. Tsiropoulou and S. Pavassiliou, "Alternative Positioning, Navigation, and Timing enabled by Games in Satisfaction Form and Reconfigurable Intelligent Surfaces", IEEE Systems Journal. (Accepted)</p></li>
+  <li><p align="justify"><b>M. S. Siraj</b>, E. E. Tsiropoulou, S. Pavassiliou and J. Plusquellic, "Symbiotic Positioning, Navigation, and Timing based on Game Theory and Reinforcement Learning", in IEEE Journal on Selected Areas in Communications. (Under Review)</p></li>
 </ol>
 
 <H2>Conference Publications</H2>
